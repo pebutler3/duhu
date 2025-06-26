@@ -10,3 +10,9 @@
 ## To Build Application
 
 1. Run `yarn build`
+
+## To Run Tests
+
+1. Run `yarn test`
+2. Run `yarn test:watch`
+
